@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+    <option name="CUSTOM_SCOPE_NAME" value="Open Files" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="openglh_clion" targetName="openglh_clion" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="518adfa4-9ab7-4731-8f0d-6c3224f90082" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+    <option name="clangWarnings" value="-Weverything,-Wno-c++98-compat,-Wno-global-constructors,-Wno-exit-time-destructors,-Wno-missing-variable-declarations,-Wno-missing-prototypes,-Wno-weak-vtables,-Wno-used-but-marked-unused,-Wno-padded" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1TWWerAnGIn7oIBvBwJ4Cp5LhUF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\Grafika\hf2\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="openglh_clion" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openglh_clion" TARGET_NAME="openglh_clion" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openglh_clion" RUN_TARGET_NAME="openglh_clion">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="518adfa4-9ab7-4731-8f0d-6c3224f90082" name="Default Changelist" comment="" />
+      <created>1573576429972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573576429972</updated>
+      <workItem from="1573576431900" duration="9517000" />
+      <workItem from="1573586483656" duration="30605000" />
+      <workItem from="1573655391162" duration="37447000" />
+      <workItem from="1573742868989" duration="41550000" />
+      <workItem from="1573827097700" duration="1420000" />
+      <workItem from="1573837298733" duration="163000" />
+      <workItem from="1573837666152" duration="80000" />
+      <workItem from="1573837769663" duration="1919000" />
+      <workItem from="1581965353816" duration="148000" />
+      <workItem from="1581965536726" duration="2673000" />
+      <workItem from="1582016781838" duration="2580000" />
+      <workItem from="1582227759025" duration="2171000" />
+      <workItem from="1582230841567" duration="6163000" />
+      <workItem from="1582240064757" duration="1747000" />
+      <workItem from="1582729873071" duration="198000" />
+      <workItem from="1582734153746" duration="265000" />
+      <workItem from="1583956910576" duration="4340000" />
+      <workItem from="1584278919479" duration="599000" />
+      <workItem from="1584375646031" duration="915000" />
+      <workItem from="1584380431124" duration="6230000" />
+      <workItem from="1584442012869" duration="7375000" />
+      <workItem from="1586197683421" duration="676000" />
+      <workItem from="1586334839763" duration="598000" />
+      <workItem from="1586358997121" duration="9187000" />
+      <workItem from="1586511835185" duration="600000" />
+      <workItem from="1586524945413" duration="601000" />
+      <workItem from="1586534891245" duration="6267000" />
+      <workItem from="1586595528803" duration="10421000" />
+      <workItem from="1586626145067" duration="6693000" />
+      <workItem from="1586720891058" duration="979000" />
+      <workItem from="1586875363640" duration="11528000" />
+      <workItem from="1586948991226" duration="14684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1581965445426">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581965445426" />
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom" timestamp="1586965347149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1582020520756" />
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583963173011" />
+    <state width="1493" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586965347149" />
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583963761650" />
+    <state width="1493" height="151" key="GridCell.Tab.0.center" timestamp="1586965347149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1582020520755" />
+    <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583963173011" />
+    <state width="1493" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586965347149" />
+    <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583963761650" />
+    <state width="1493" height="151" key="GridCell.Tab.0.left" timestamp="1586965347148">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1582020520755" />
+    <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583963173011" />
+    <state width="1493" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586965347148" />
+    <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583963761650" />
+    <state width="1493" height="151" key="GridCell.Tab.0.right" timestamp="1586965347149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1582020520756" />
+    <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583963173011" />
+    <state width="1493" height="151" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586965347149" />
+    <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583963761650" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1586891488029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586891488029" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1586891488029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586891488029" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1586891488029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586891488029" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1586891488029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586891488029" />
+    <state x="115" y="38" key="SettingsEditor" timestamp="1586360395065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2381" y="163" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582231617074" />
+    <state x="115" y="38" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586360395065" />
+    <state x="524" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1586949208396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="273" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1583957182363" />
+    <state x="2575" y="344" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582240067270" />
+    <state x="524" y="273" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586949208396" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1584448279567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584448279567" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="vertices.size()" language="ObjectiveC" />
+        <watch expression="uvs.size()" language="ObjectiveC" />
+        <watch expression="normals.size()" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

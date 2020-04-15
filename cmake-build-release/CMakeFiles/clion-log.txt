@@ -1,0 +1,4 @@
+"D:\Programs\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" D:\Documents\Grafika\hf2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Documents/Grafika/hf2/cmake-build-release

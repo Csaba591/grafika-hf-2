@@ -1,0 +1,12 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ClangTidy" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="clangTidyChecks" value="*,-cppcoreguidelines-avoid-c-arrays,-fuchsia-statically-constructed-objects,-cert-err58-cpp,-hicpp-avoid-c-arrays,-modernize-avoid-c-arrays,-cppcoreguidelines-avoid-magic-numbers,-readability-magic-numbers,-fuchsia-default-arguments,-cppcoreguidelines-pro-type-vararg,-hicpp-vararg,-fuchsia-overloaded-operator,-cppcoreguidelines-owning-memory,-cert-flp30-c,-cppcoreguidelines-pro-type-reinterpret-cast,-cppcoreguidelines-pro-bounds-constant-array-index,-cert-msc30-c,-cert-msc50-cpp,-android-cloexec-fopen,-cppcoreguidelines-pro-bounds-pointer-arithmetic" />
+    </inspection_tool>
+    <inspection_tool class="ClangTidyInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="clangTidyChecks" value="*" />
+    </inspection_tool>
+    <inspection_tool class="UnusedIncludeDirective" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
